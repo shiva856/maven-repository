@@ -1,0 +1,7 @@
+/home/devops/mavenrepo/src/com/srk/dao/StudentDAO.java
+/home/devops/mavenrepo/src/com/srk/servlet/EditStudent.java
+/home/devops/mavenrepo/src/com/srk/servlet/SaveEditedStudent.java
+/home/devops/mavenrepo/src/com/srk/servlet/RegistrationController.java
+/home/devops/mavenrepo/src/vo/Student.java
+/home/devops/mavenrepo/src/com/srk/servlet/DeleteStudent.java
+/home/devops/mavenrepo/src/com/srk/servlet/ViewStudents.java
